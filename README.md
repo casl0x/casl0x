@@ -3,18 +3,17 @@ I'm a beginner in web development and still have a lot to learn 🌱
 <br>
 <detail>
 ### 📖 The various coding languages I use and learn
-  <br>
 <picture>
-  <img alt="html" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png">
+  <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height=70 width=70>
 </picture>
 <picture>
-  <img alt="css" src="https://cdn-icons-png.flaticon.com/128/732/732190.png">
+  <img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height=70 width=70>
 </picture>
 <picture>
-  <img alt="javascript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png">
+  <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=70 width=70>
 </picture>
 <picture>
-  <img alt="lua" src="https://cdn-icons-png.flaticon.com/128/11907/11907067.png">
+  <img alt="lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" height=70 width=70>
 </picture>
 </detail>
 <hr/>
