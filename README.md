@@ -2,7 +2,7 @@
 I'm a beginner in web development and still have a lot to learn 🌱
 <br>
 <detail>
-<summary>📖 The various coding languages I use and learn</summary>
+### 📖 The various coding languages I use and learn
   <br>
 <picture>
   <img alt="html" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png">
@@ -17,6 +17,7 @@ I'm a beginner in web development and still have a lot to learn 🌱
   <img alt="lua" src="https://cdn-icons-png.flaticon.com/128/11907/11907067.png">
 </picture>
 </detail>
+<hr/>
 
 
 <!---
