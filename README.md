@@ -6,13 +6,13 @@
 <detail>
 ### 📖 The different coding languages I use and learn
 <picture>
-  <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height=70 width=70>
+  <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height=45 width=45>
 </picture>
 <picture>
-  <img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height=70 width=70>
+  <img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height=45 width=45>
 </picture>
 <picture>
-  <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=70 width=70>
+  <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=45 width=45>
 </picture>
 </detail>
 <hr/>
