@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Cass
 🌱 | I'm a beginner in web development and still have a lot to learn 
 <br>
-🎮 | I also like video games, especially open worlds 
+🎮 | I also like video games, particularly open worlds 
 <br>
 <detail>
 ### 📖 The different coding languages I use and learn
