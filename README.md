@@ -17,10 +17,10 @@
 <picture>
   <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=45 width=45>
 </picture>
-<picture>
+<!---<picture>
   <img alt="lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" height=45 width=45>
 </picture>
-</detail>
+</detail>--->
 <hr>
 
 
