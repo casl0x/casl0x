@@ -15,6 +15,9 @@
   <img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height=45 width=45>
 </picture>
 <picture>
+  <img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=45 width=45>
+</picture>
+<picture>
   <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=45 width=45>
 </picture>
 <!---<picture>
