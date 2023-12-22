@@ -18,11 +18,12 @@
 </picture>
 <!---<picture>
   <img alt="lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" height=45 width=45>
-</picture>--->
+</picture>
+<hr>
 ### 🧰 Extensions I use
 <picture>
   <img alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height=45 width=45>
-</picture>
+</picture>--->
 <hr>
 
 
