@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m Cass
 🌱 | I'm a beginner in web development and still have a lot to learn 
 <br>
-🎮 | I also like video games 
-<!---, newbie to fivem development <img alt="cfx.re" src="https://forum.cfx.re/uploads/default/original/2X/a/a55c1dc01f0e5bf2ec6892abd0c2bc9adaedc2b9.png" height=15 width=15>--->
+<!---🎮 | I also like video games, newbie to fivem development <img alt="cfx.re" src="https://forum.cfx.re/uploads/default/original/2X/a/a55c1dc01f0e5bf2ec6892abd0c2bc9adaedc2b9.png" height=15 width=15>--->
 <br>
 <details>
   <summary> 📖 The different coding languages I use and learn</summary>
