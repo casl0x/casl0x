@@ -1,29 +1,34 @@
-## 👋 Hi, I’m Cass
-🌱 | I'm a beginner in web development and still have a lot to learn 
-<br>
-<!---🎮 | I also like video games, newbie to fivem development <img alt="cfx.re" src="https://forum.cfx.re/uploads/default/original/2X/a/a55c1dc01f0e5bf2ec6892abd0c2bc9adaedc2b9.png" height=15 width=15>--->
-<details>
-  <summary> 📖 The different coding languages I use and learn</summary>
-  <ul>
-    <li>
-       HTML
-    </li>
-    <li>
-      CSS - Sass 
-    </li>
-    <li>
-       Javascript 
-    </li>
-  </ul>
-</details>
-<!---<picture>
-  <img alt="lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" height=45 width=45>
-</picture>--->
-<hr>
+## 👋 Hi, I’m Cass <img alt="followers" src="https://img.shields.io/github/followers/casl0x?label=Followers&style=social" align="right">
+
+🌱 | I'm a beginner in web development and still have a lot to learn, actually trainne @BeCode <br>
+🕹️ | I also like video game, horseriding and photographie 
+
+
+### Tech Stack :
+<div align="center">
+  <img src="./assets/Visual-Studio-Code-(VS-Code).svg" width="40"> &nbsp;
+  <img src="./assets/Git.svg" width="40"> &nbsp;
+  <img src="./assets/HTML5.svg" width="40"> &nbsp;
+  <img src="./assets/CSS3.svg" width="40"> &nbsp;
+  <img src="./assets/Sass.svg" width="40"> &nbsp;
+  <img src="./assets/JavaScript.svg" width="40"> &nbsp;
+  <img src="./assets/PHP.svg" width="50"> 
+</div>
+
+### GitHub Stats :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=casl0x&hide=issues,prs&theme=dark&show_icons=true">
+</div>
+
+ ### Stay Connected :
+<div align="center">
+  <a href="https://www.linkedin.com/in/cassidyrouelle/"><img src="./assets/linkedin-in.svg" width="40"></a> &nbsp;
+  <a href="mailto:cassidy.rouelle@gmail.com"><img src="./assets/envelope-regular.svg" width="40"></a>
+</div>
 
 
 
-<!---
-casl0x/casl0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ 
+
+
