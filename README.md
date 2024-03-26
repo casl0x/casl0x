@@ -1,6 +1,6 @@
 #  Hi, I’m Cass  <img src="./assets/sonic-running.gif" width="35"><img alt="followers" src="https://img.shields.io/github/followers/casl0x?label=Followers&style=social" align="right">
 
-🌱 | I'm a beginner in web development and still have a lot to learn, actually trainee **@BeCode** <br>
+🌱 | Junior Frontend Developer actually trainee **@BeCode** <br>
 🕹️ | I also like video game, horseriding and photographie <br>
 
 ## Tech Stack :
