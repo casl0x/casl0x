@@ -4,15 +4,14 @@
 🕹️ | I also like video game, horseriding and photographie <br>
 
 ## Tech Stack :
-<div align="center">
-  <img src="./assets/Visual-Studio-Code-(VS-Code).svg" width="40"> &nbsp;
-  <img src="./assets/Git.svg" width="40"> &nbsp;
-  <img src="./assets/HTML5.svg" width="40"> &nbsp;
-  <img src="./assets/CSS3.svg" width="40"> &nbsp;
-  <img src="./assets/Sass.svg" width="40"> &nbsp;
-  <img src="./assets/JavaScript.svg" width="40"> &nbsp;
-  <img src="./assets/PHP.svg" width="50"> 
-</div>
+Tools : <br>
+<img src="https://skillicons.dev/icons?i=vscode,git"/>
+
+Frontend :  <br>
+<img src="https://skillicons.dev/icons?i=html,css,sass,react"/> 
+
+Backend : <br>
+<img src="https://skillicons.dev/icons?i=php,mysql"/> 
 
 ## GitHub Stats :
 <div align="center">
