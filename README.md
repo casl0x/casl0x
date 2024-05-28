@@ -2,6 +2,7 @@
 
 🌱 | I like coding funny things, currently training **@BeCode** <br>
 🎯 | Actually learning to design in **TailwinCSS** and code in **React** and **Next.js**<br>
+💻 | See my portfolio [👉🏼 here 👈🏼](https://cassidyrouelle.vercel.app/) <br>
 ✨ | I also like video games, horse riding and photography <br>
 
 ## Tech Stack :
