@@ -15,15 +15,18 @@ Backend : <br>
 <img src="https://skillicons.dev/icons?i=php,mysql"/> 
 
 ## My fav projects :
-<a href="https://github.com/casl0x/movieBrowser">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=movieBrowser" />
-</a>
-<a href="https://github.com/casl0x/todolist">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=todolist" />
-</a>
-<a href="https://github.com/casl0x/weather-app">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=weather-app" />
-</a>
+<div align="center">
+  <a href="https://github.com/casl0x/movieBrowser">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=movieBrowser" />
+  </a>
+  <a href="https://github.com/casl0x/todolist">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=todolist" />
+  </a>
+  <a href="https://github.com/casl0x/weather-app">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=weather-app" />
+  </a>
+</div>
+
 
 ## Stay Connected :
 <div align="center">
@@ -31,8 +34,8 @@ Backend : <br>
   <a href="mailto:cassidy.rouelle@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a> &nbsp; 
 
 </div>
-<hr>
-<div align="center"> 
-  <img src="https://media2.giphy.com/media/IT6SMkGa4wCPkZvFEW/100.webp?cid=ecf05e474dm7163dawiurzcor683gbeje3ok3ydfdk31yrfa&ep=v1_stickers_search&rid=100.webp&ct=ts">
+
+<div align="center" > 
+  <img width="300" src="https://media2.giphy.com/media/IT6SMkGa4wCPkZvFEW/100.webp?cid=ecf05e474dm7163dawiurzcor683gbeje3ok3ydfdk31yrfa&ep=v1_stickers_search&rid=100.webp&ct=ts">
 </div>
 
