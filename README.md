@@ -2,10 +2,12 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN5a2c3bHJlNDhqdW9xZnhoNHV2cHV0ZmszeTl3c2t2MW9pcXAxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/200.webp" align="right">
 <br>
+
 🌱 | I like coding funny things, currently training **@BeCode** <br>
 🎯 | Actually learning to design in **TailwinCSS** and code in **React** and **Next.js**<br>
 💻 | See my portfolio [👉🏼 here 👈🏼](https://cassidyrouelle.vercel.app/) <br>
 ✨ | I also like video games, horse riding and photography <br>
+
 <br>
 
 ## Tech Stack :
