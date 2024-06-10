@@ -11,7 +11,7 @@
 
 ## Tech Stack :
 Tools : <br>
-<img src="https://skillicons.dev/icons?i=notion,figma,vscode,git"/>
+<img src="https://skillicons.dev/icons?i=notion,figma,vscode,git,markdown"/>
 
 Frontend :  <br>
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react"/> 
