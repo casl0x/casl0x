@@ -9,7 +9,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fol57swf2sn4xqfm72u4bpy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=f0b042&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 </div>
 
-I'm also working on a web development learning roadmap that will evolve over time.[ Come here to see it → 🗺️ ](https://www.notion.so/cass-rouelle/Roadmap-Web-Development-094f237247954fde9fb55b1e0d5deb4b?pvs=4)
+<!-- I'm also working on a web development learning roadmap that will evolve over time.[ Come here to see it → 🗺️ ](https://www.notion.so/cass-rouelle/Roadmap-Web-Development-094f237247954fde9fb55b1e0d5deb4b?pvs=4) -->
 
 ## Tech Stack :
 Tools : <br>
