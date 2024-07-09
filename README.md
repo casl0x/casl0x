@@ -1,9 +1,9 @@
 #  Hey, I’m Cass  <img src="https://media2.giphy.com/media/kuWN0iF9BLQKk/200.webp?cid=790b76119zsubcf0s92ybvggyay2dbnu9tqyi1g96eohb6g4&ep=v1_stickers_search&rid=200.webp&ct=s" width="35"><img alt="followers" src="https://img.shields.io/github/followers/casl0x?label=Followers&style=social" align="right">
 
 🌱 | I like coding funny things, currently training **@BeCode** <br>
-🎯 | Actually learning to design in **TailwinCSS** and code in **React** and **Next.js**<br>
 💻 | See my portfolio [👉🏼 here 👈🏼](https://cassidyrouelle.vercel.app/) <br>
 ✨ | I also like video games, horse riding and photography <br>
+🚔 | I'm starting to learn fivem development in Lua
 <div align="right">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fol57swf2sn4xqfm72u4bpy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=f0b042&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
@@ -20,6 +20,9 @@ Frontend :  <br>
 
 Backend : <br>
 <img src="https://skillicons.dev/icons?i=php,mysql"/> 
+
+FiveM : <br>
+<img src="https://skillicons.dev/icons?i=powershell,lua"/>
 
 ## My fav projects :
 <div align="center">
