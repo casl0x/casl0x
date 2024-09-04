@@ -1,10 +1,12 @@
 #  Hey, I’m Cass  <img src="https://media2.giphy.com/media/kuWN0iF9BLQKk/200.webp?cid=790b76119zsubcf0s92ybvggyay2dbnu9tqyi1g96eohb6g4&ep=v1_stickers_search&rid=200.webp&ct=s" width="35"><img alt="followers" src="https://img.shields.io/github/followers/casl0x?label=Followers&style=social" align="right">
 
+<img src="https://profile-counter.glitch.me/{casl0x}/count.svg" alt="madushadhanushka :: Visitor's Count" height="20px" align="right"/>
+<br>
+
 🌱 | I like to code funny things and make them look good <br>
 💻 | See my portfolio [👉🏼 here 👈🏼](https://cassidyrouelle.vercel.app/) <br>
 ✨ | I also like video games, horse riding and photography <br>
 🚔 | I'm starting to learn fivem development in Lua
-
 <!-- I'm also working on a web development learning roadmap that will evolve over time.[ Come here to see it → 🗺️ ](https://www.notion.so/cass-rouelle/Roadmap-Web-Development-094f237247954fde9fb55b1e0d5deb4b?pvs=4) -->
 
 ## Tech Stack :
@@ -39,5 +41,4 @@ FiveM : <br>
   <a href="https://www.linkedin.com/in/cassidyrouelle/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a> &nbsp;
   <a href="mailto:cassidy.rouelle@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a> &nbsp; 
 </div>
-
 
