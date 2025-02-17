@@ -7,7 +7,6 @@
 🌱 | I like to code funny things and make them look good <br>
 💻 | See my portfolio [👉🏼 here 👈🏼](https://cassidyrouelle.vercel.app/) <br>
 ✨ | I also like video games, horse riding and photography <br>
-🚔 | I'm starting to learn fivem development in Lua
 
 ## Tech Stack :
 Tools : <br>
@@ -18,9 +17,6 @@ Frontend :  <br>
 
 Backend : <br>
 <img src="https://skillicons.dev/icons?i=php,mysql,supabase"/> 
-
-FiveM : <br>
-<img src="https://skillicons.dev/icons?i=powershell,lua"/>
 
 ## My fav projects :
 <div align="center">
@@ -33,11 +29,4 @@ FiveM : <br>
   <a href="https://github.com/casl0x/weather-app">
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=weather-app" />
   </a>
-</div>
-
-
-## Stay Connected :
-<div align="center">
-  <a href="https://www.linkedin.com/in/cassidyrouelle/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a> &nbsp;
-  <a href="mailto:cassidy.rouelle@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a> &nbsp; 
 </div>
