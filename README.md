@@ -1,4 +1,4 @@
-#  Hey, I’m Cass  <img src="https://media2.giphy.com/media/kuWN0iF9BLQKk/200.webp?cid=790b76119zsubcf0s92ybvggyay2dbnu9tqyi1g96eohb6g4&ep=v1_stickers_search&rid=200.webp&ct=s" width="35"><img alt="followers" src="https://img.shields.io/github/followers/casl0x?label=Followers&style=social" align="right">
+#  Hey, I’m Cass  <img src="https://media2.giphy.com/media/kuWN0iF9BLQKk/200.webp?cid=790b76119zsubcf0s92ybvggyay2dbnu9tqyi1g96eohb6g4&ep=v1_stickers_search&rid=200.webp&ct=s" width="35">
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21fol57swf2sn4xqfm72u4bpy&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21fol57swf2sn4xqfm72u4bpy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=ea9eff&bar_color_cover=false" alt="spotify-github-profile" align="right">
