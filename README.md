@@ -26,7 +26,4 @@ Backend : <br>
   <a href="https://github.com/casl0x/todolist">
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=todolist" />
   </a>
-  <a href="https://github.com/casl0x/weather-app">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=weather-app" />
-  </a>
 </div>
