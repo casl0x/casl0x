@@ -5,7 +5,6 @@
 </a>
 
 🌱 | I like to code funny things and make them look good <br>
-💻 | See my portfolio [👉🏼 here 👈🏼](https://cassidyrouelle.be) <br>
 ✨ | I also like video games, horse riding and photography <br>
 
 ## Tech Stack :
