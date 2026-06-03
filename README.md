@@ -18,11 +18,19 @@ Backend : <br>
 <img src="https://skillicons.dev/icons?i=php,mysql,supabase"/> 
 
 ## My fav projects :
-<div align="center">
+In addition to the repositories available on this GitHub profile, I have developed several web projects that can be viewed online.
+
+- 🌐 Portfolio : https://cassidyrouelle.be
+- 🌐 byCaslox : https://www.bycaslox.blog
+- 🌐 Flashback WL Wiki : https://flashback-wiki.vercel.app
+
+*The source code for some projects is not publicly available, but the live websites can be accessed through the links above.*
+
+<!-- <div align="center">
   <a href="https://github.com/casl0x/movieBrowser">
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=movieBrowser" />
   </a>
   <a href="https://github.com/casl0x/todolist">
     <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=casl0x&repo=todolist" />
   </a>
-</div>
+</div> -->
