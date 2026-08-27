@@ -20,7 +20,6 @@ Backend : <br>
 ## My fav projects :
 In addition to the repositories available on this GitHub profile, I have developed several web projects that can be viewed online.
 
-- 🌐 Portfolio : https://cassidyrouelle.be
 - 🌐 Flashback WL Wiki : https://flashback-wiki.vercel.app
 
 *The source code for some projects is not publicly available, but the live websites can be accessed through the links above.*
